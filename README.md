@@ -69,7 +69,7 @@ $ npm run start
 <br>
 
 ## 🌐 aplicação
-<img width="900" heigth="900"  src="https://github.com/Gabrielmirandaxl/CRUD/blob/main/src/public/gif/2022-07-17%2014-06-31%20(1).gif">
+<img width="900" heigth="900"  src="https://github.com/Gabrielmirandaxl/Rede-social-back_end/blob/master/2022-11-21%2017-57-05.gif">
 
 <br>
 
