@@ -47,10 +47,10 @@ Além disso, é bom ter um editor para trabalhar com código como [VSCode](https
 
 ```php
 # clonar este repositório
-$ git clone https://github.com/Gabrielmirandaxl/CRUD
+$ git clone https://github.com/Gabrielmirandaxl/Rede-social-back_end
 
 # acesse a pasta do projeto
-$ cd CRUD
+$ cd Rede-social-back_end
 
 # instale as dependências
 $ npm install
