@@ -3,7 +3,7 @@
 Bem-vindo(a).
 
 Olá, como vai?! Meu nome é Gabriel Miranda e acabei de fazer uma rede social. Estarei dividindo esse projeto em dois repositórios!
-O repositório do front vai está nesse <a href="">link</a>
+O repositório do front vai está nesse <a href="https://github.com/Gabrielmirandaxl/Rede-social-front_end">link</a>
 
 
 <br>
